@@ -14,7 +14,7 @@ generation:
   tagNamespacingDisabled: false
 java:
   version: 1.0.0
-  artifactID: petstore-test
+  artifactID: petstore-example
   companyEmail: info@mycompany.com
   companyName: My Company
   companyURL: www.mycompany.com
@@ -22,4 +22,4 @@ java:
   groupID: corn-test
   maxMethodParams: 0
   ossrhURL: https://s01.oss.sonatype.org/service/local/staging/deploy/maven2/
-  projectName: petstore-test
+  projectName: petstore-example
